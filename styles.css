@@ -1,0 +1,60 @@
+body { 
+    background-color: #D93535;
+}
+
+table{
+	width: 100%; 
+	background-image: url("images/nightmarehouse.jpg");
+	background-image: ; 
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    color: white; 
+}
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+h1, h2, h3{
+	text-align: center; 
+}
+
+#barb {
+    float: right;
+    margin: 0 0 10px 10px;
+    clear: center;
+}
+
+p {
+    border: 1px solid black;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+.bottom{
+	text-align: center;
+}
+
+#lastlink {
+	text-align: right;
+}
