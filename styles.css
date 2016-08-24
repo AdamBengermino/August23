@@ -1,15 +1,20 @@
 body { 
     background-color: #D93535;
+    font-size: 1.2em; 
 }
+
+header {    
+    padding: .2em; 
+}
+
 
 table{
 	width: 100%; 
-	background-image: url("images/nightmarehouse.jpg");
-	background-image: ; 
+	background-image: url("images/nightmarehouse.jpg"); 
 }
 
 th, td {
-    padding: 15px;
+    padding: 1.5em;
     text-align: center;
     color: white; 
 }
@@ -37,14 +42,7 @@ h1, h2, h3{
 	text-align: center; 
 }
 
-#barb {
-    float: right;
-    margin: 0 0 10px 10px;
-    clear: center;
-}
-
 p {
-    border: 1px solid black;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
     margin-right: 2em;
@@ -55,6 +53,11 @@ p {
 	text-align: center;
 }
 
-#lastlink {
-	text-align: right;
+#picpattern{
+    margin: 1.3em;
 }
+
+#picbot{
+    margin: 1.5em;
+}
+
